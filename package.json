@@ -1,6 +1,6 @@
 {
   "name": "uncamelcase",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A utility module for converting camel case to a space-separated string",
   "main": "dist/index.js",
   "scripts": {
@@ -36,6 +36,5 @@
     "mocha": "^2.4.5",
     "webpack": "^1.13.0"
   },
-  "dependencies": {
-  }
+  "dependencies": {}
 }
